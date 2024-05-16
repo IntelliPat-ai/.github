@@ -6,15 +6,6 @@ Welcome to the official GitHub repository of Intellipat.ai, your partner in AI-p
 
 **IntelliPat.ai** offers a comprehensive suite of AI-driven tools designed to streamline the patent process. Our flagship product, the **Novelty Search**, leverages advanced AI models to assist inventors in evaluating the uniqueness of their ideas against existing prior art. This repository contains the codebase for our AI models, API integrations, and web interfaces.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-  - [Idea Intake](#idea-intake)
-  - [Deep Analysis of Prior Art](#deep-analysis-of-prior-art)
-  - [Intuitive Report](#intuitive-report)
-- [Support](#support)
-
 ## Introduction
 
 Our AI-powered tools are designed to empower innovators by maximizing IP budgets and accelerating decision-making processes. With IntelliPat.ai, you can perform a comprehensive novelty search in minutes, ensuring your idea is unique and patentable.
