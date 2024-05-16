@@ -1,6 +1,6 @@
-# Welcome to IntelliPat's GitHub Repository!
+# Welcome to IntelliPat's GitHub Organization!
 
-Welcome to the official GitHub repository of Intellipat.ai, your partner in AI-powered patent solutions. Our mission is to revolutionize the patent space using cutting-edge AI technology, making it easier, faster, and more cost-effective for innovators to protect their ideas. Here, you'll find the source code, documentation, and tools that power our innovative solutions.
+Welcome to the official GitHub organization of Intellipat.ai, your partner in AI-powered patent solutions. Our mission is to revolutionize the patent space using cutting-edge AI technology, making it easier, faster, and more cost-effective for innovators to protect their ideas. Here, you'll find the source code, documentation, and tools that power our innovative solutions.
 
 ## About IntelliPat.ai
 
